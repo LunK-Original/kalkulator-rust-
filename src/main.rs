@@ -50,6 +50,10 @@ fn main() {
     }else if operator_jadi == "4"{
         println!("{}" , pembagian(angka_pertama, angka_kedua));
     }else{
+<<<<<<< HEAD
         println!("kamu salah pilih");
+=======
+        println!("lah");
+>>>>>>> origin/main
     }
 }
